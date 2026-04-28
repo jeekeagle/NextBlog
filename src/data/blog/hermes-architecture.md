@@ -7,10 +7,8 @@ featured: false
 draft: false
 tags:
   - Hermes
-  - AI-Agent
   - 工具架构
   - 认知脚手架
-  - 共创体系
 description: 这套架构不是 Hermes 的默认设置，是我和 Hermes 一起设计出来的。它的核心不是分类，是认知资源的分布——每部分只处理一种确定性的信息状态，让信息在系统中流动而不堆积。
 ---
 
