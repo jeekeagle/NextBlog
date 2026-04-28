@@ -7,8 +7,6 @@ featured: false
 draft: false
 tags:
   - Hermes
-  - AI协作
-  - Meta配置
   - 人机协作
   - 认知体系
 description: 真正有效的协作，是人构建秩序，Agent在秩序内自由发挥。Meta配置层，就是这套秩序的具体载体。
