@@ -7,7 +7,7 @@ featured: false
 draft: false
 tags:
   - 职业
-  - AI
+  - AI影响
   - 职场
 description: 不是机器替代了人，而是人的某个层次正在被绕过。职业阶梯从底部断裂，中层组织形态正在消解，真正难以被替代的是判断力。
 ---
