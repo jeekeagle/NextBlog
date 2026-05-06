@@ -1,6 +1,6 @@
 ---
 title: KOU人生架构
-pubDatetime: 2026-05-07T21:00:00Z
+pubDatetime: 2026-05-06T21:00:00Z
 author: theo
 draft: false
 tags:
