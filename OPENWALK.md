@@ -9,7 +9,7 @@
 | 部署域名 | https://wangyiguo.top/ |
 | GitHub 仓库 | https://github.com/jeekeagle/NextBlog |
 | 同步路径 | `/opt/data/obsidian/N6-Output/Output-Site/OpenWalk/sources` |
-| 文章目录 | `src/pages/posts/` |
+| 文章目录 | `src/data/blog/` |
 | 图片目录 | `src/assets/images/` |
 | 作者 | theo |
 | 主题 | AstroPaper |
@@ -23,13 +23,14 @@ OpenWalk/                    # 本地工作目录
     ├── .git/
     ├── src/
     │   ├── assets/images/   # 文章配图
-    │   ├── pages/           # 页面路由
     │   ├── config.ts        # 站点配置
-    │   └── constants.ts     # 常量/链接
+    │   ├── constants.ts     # 常量/链接
+    │   ├── content.config.ts # Astro 内容集合配置
+    │   └── pages/           # 页面路由（about.md、posts 等）
     ├── public/              # 静态资源
     ├── astro.config.ts
     ├── package.json
-    └── README.md            # AstroPaper 原始说明
+    └── README.md            # AstroPaper 原始说明（上游）
 ```
 
 ## 发布规则
@@ -42,4 +43,9 @@ OpenWalk/                    # 本地工作目录
 
 ## Skill
 
-发布文章使用 `write-after-post-open` skill（`/opt/data/obsidian/N0-Agent/skills/next-skills/write-after-post-open/`）
+> 📋 完整运营指南（发文章规范、GitHub 操作、Vercel 部署）见父目录 `../readme`
+
+- 发布文章使用 **`write-after-post-open`** skill
+  - 路径：`/opt/data/obsidian/N0-Agent/skills/next-skills/write-after-post-open/`
+- Flow Post 使用 **`write-after-post-flow`** skill
+  - 路径：`N0-Agent/skills/next-skills/write-after-post-flow/`
