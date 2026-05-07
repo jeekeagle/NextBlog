@@ -1,6 +1,6 @@
 ---
 title: 对齐问题：话语体系与深层困难
-pubDatetime: 2026-05-07T10:30:00Z
+pubDatetime: 2026-05-06T10:30:00Z
 author: theo
 draft: false
 tags:
