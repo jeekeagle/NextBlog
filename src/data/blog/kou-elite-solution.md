@@ -1,5 +1,5 @@
 ---
-title: "精英解法：用 KOU 框架理解「系统何以成为系统」"
+title: "KOU视角下的精英解法"
 pubDatetime: 2026-05-06T21:00:00Z
 author: theo
 draft: false
