@@ -1,6 +1,6 @@
 ---
 title: "对抗短视频的行为设计"
-pubDatetime: 2026-05-08T09:00:00Z
+pubDatetime: 2026-05-07T09:00:00Z
 author: theo
 draft: false
 tags:
