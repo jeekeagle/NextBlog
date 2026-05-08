@@ -1,9 +1,9 @@
 ---
 title: UI-Connect：人际交往的基本原则
-date: 2026-05-08
+date: 2026-05-07
 author: theo
 draft: false
-pubDatetime: 2026-05-08T14:00:00Z
+pubDatetime: 2026-05-07T14:00:00Z
 tags:
   - KOU系统
   - UI设计
