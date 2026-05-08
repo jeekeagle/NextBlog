@@ -1,5 +1,5 @@
 ---
-title: "AI不能做什么？"
+title: "AI不能做什么？ - 不能死亡"
 pubDatetime: 2026-05-06T21:00:00Z
 author: theo
 draft: false
