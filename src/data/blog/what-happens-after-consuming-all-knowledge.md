@@ -1,5 +1,5 @@
 ---
-title: "你刷完了所有「知识」，然后呢？"
+title: "ICAP：智能时代的学习方法"
 pubDatetime: 2026-05-06T21:00:00Z
 author: theo
 draft: false
