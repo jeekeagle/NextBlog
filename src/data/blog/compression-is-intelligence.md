@@ -3,7 +3,7 @@ title: "压缩即智能"
 date: 2026-05-08
 author: theo
 slug: compression-is-intelligence
-pubDatetime: 2026-05-08T23:00:00Z
+pubDatetime: 2026-05-08T08:00:00Z
 draft: false
 tags:
   - 认知科学
