@@ -1,6 +1,6 @@
 ---
-title: "How to Speak：演讲的注意力管理法则 V2"
-pubDatetime: 2026-05-06T21:00:00Z
+title: "How to Speak：演讲中的注意力引导"
+pubDatetime: 2026-05-07T21:00:00Z
 author: theo
 draft: false
 tags:
