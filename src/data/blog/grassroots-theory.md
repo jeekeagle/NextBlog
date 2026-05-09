@@ -1,6 +1,6 @@
 ---
 title: "草台班子理论：内部视角"
-pubDatetime: 2026-05-07T21:00:00Z
+pubDatetime: 2026-05-09T01:00:00Z
 author: theo
 draft: false
 tags:
