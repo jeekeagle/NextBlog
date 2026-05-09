@@ -1,5 +1,5 @@
 ---
-title: "草台班子理论：内部视角"
+title: "草台班子理论"
 pubDatetime: 2026-05-09T01:00:00Z
 author: theo
 draft: false
