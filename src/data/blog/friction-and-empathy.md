@@ -2,7 +2,7 @@
 title: 真实世界的摩擦与共情
 date: 2026-05-10
 author: theo
-pubDatetime: 2026-05-08T01:00:00Z
+pubDatetime: 2026-05-10T01:00:00Z
 draft: false
 tags:
   - AI时代

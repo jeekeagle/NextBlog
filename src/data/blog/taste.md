@@ -2,7 +2,7 @@
 title: Taste
 date: 2026-05-10
 author: theo
-pubDatetime: 2026-05-08T01:00:00Z
+pubDatetime: 2026-05-10T01:00:00Z
 draft: false
 tags:
   - AI时代
