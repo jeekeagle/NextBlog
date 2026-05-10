@@ -1,5 +1,6 @@
 ---
 title: "叠影人生：在多重网络中生活"
+slug: life-in-networks
 pubDatetime: 2026-05-06T21:00:00Z
 author: theo
 draft: false

@@ -1,5 +1,6 @@
 ---
 title: 传统企业AI转型与组织重构
+slug: legacy-ai-transformation
 pubDatetime: 2026-05-08T00:00:00Z
 author: theo
 draft: false

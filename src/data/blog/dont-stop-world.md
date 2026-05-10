@@ -1,5 +1,6 @@
 ---
-title: 行为设计学：没有停止符的世界
+title: 没有停止符的世界
+slug: dont-stop-world
 date: 2026-05-09
 author: theo
 pubDatetime: 2026-05-09T02:00:00Z
