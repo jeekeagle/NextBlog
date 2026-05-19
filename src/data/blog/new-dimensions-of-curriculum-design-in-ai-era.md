@@ -1,8 +1,8 @@
 ---
 title: "AI时代课程设计的新视角"
-date: 2026-05-18
+date: 2026-04-05
 author: theo
-pubDatetime: 2026-05-17T21:00:00Z
+pubDatetime: 2026-04-05T01:00:00Z
 draft: false
 tags:
   - AI教育
