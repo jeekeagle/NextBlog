@@ -2,7 +2,7 @@
 title: 消融实验是一种思维工具
 date: 2026-05-17
 author: theo
-pubDatetime: 2026-05-15T01:00:00Z
+pubDatetime: 2024-03-01T01:00:00Z
 draft: false
 tags:
   - 认知工具
