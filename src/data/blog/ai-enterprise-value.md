@@ -1,7 +1,7 @@
 ---
 title: AI时代企业价值重塑
 slug: ai-enterprise-value
-pubDatetime: 2026-05-08T00:00:00Z
+pubDatetime: 2026-05-03T00:00:00Z
 author: theo
 draft: false
 tags:
